@@ -1,0 +1,12 @@
+/Users/upgrade/Desktop/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/upgrade/Desktop/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/upgrade/Desktop/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/upgrade/Desktop/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
